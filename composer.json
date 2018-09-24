@@ -1,0 +1,12 @@
+{
+    "name": "blso/ativdade",
+    "authors": [
+        {
+            "name": "Bruce Oliveira",
+            "email": "bruoliveira@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^3.4"
+    }
+}
